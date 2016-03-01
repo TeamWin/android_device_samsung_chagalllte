@@ -20,8 +20,8 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base.mk)
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/omni/config/common.mk)
 
-PRODUCT_NAME := omni_chagallwifi
-PRODUCT_DEVICE := chagallwifi
+PRODUCT_NAME := omni_chagalllte
+PRODUCT_DEVICE := chagalllte
 PRODUCT_BRAND := Samsung
-PRODUCT_MODEL := Tab S 10.5 WIFI
+PRODUCT_MODEL := Tab S 10.5 LTE
 PRODUCT_MANUFACTURER := Samsung
