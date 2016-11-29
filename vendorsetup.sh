@@ -1,1 +1,1 @@
-add_lunch_combo omni_chagalllte-userdebug
+add_lunch_combo omni_chagalllte-eng
